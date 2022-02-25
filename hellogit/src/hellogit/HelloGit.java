@@ -13,6 +13,7 @@ public class HelloGit {
 		System.out.println("linha 7");
 		System.out.println("linha 8");
 		System.out.println("linha 9");
+		System.out.println("linha 10");
 	}
 
 }
