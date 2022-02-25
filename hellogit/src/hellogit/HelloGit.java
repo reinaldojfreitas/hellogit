@@ -7,6 +7,7 @@ public class HelloGit {
 		System.out.println("Linha 2");
 		System.out.println("Linha 3");
 		System.out.println("Linha 4");
+		System.out.println("Linha 5");
 	}
 
 }
